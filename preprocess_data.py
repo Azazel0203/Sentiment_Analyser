@@ -120,8 +120,6 @@ print (len(overflowed))
 
 
 
-
-
 # Define file paths
 file_path1 = os.path.join("artifact", "inputs.json")
 file_path2 = os.path.join("artifact", "outputs.json")
